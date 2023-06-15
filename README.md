@@ -1,7 +1,2 @@
 A common coder/stger/student/coser.
-
-### Main dev-language:Java & Go & Kotlin & C++.
-
-Direction of research:***high concurrency， net developing***
-
-Current work(s):stg in Java
+![KKoishi_'s github stats](https://github-readme-stats.vercel.app/api?username=Koishi-Satori&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
